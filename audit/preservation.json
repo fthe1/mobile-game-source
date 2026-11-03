@@ -1,0 +1,17 @@
+{
+  "original_files": 569,
+  "missing": [],
+  "changed": [
+    ".gitignore",
+    "package.json",
+    "www/privacy.html",
+    "www/settings.js",
+    "www/app.min.js",
+    "www/index.html",
+    "www/sw.js",
+    "www/polish.css",
+    ".github/workflows/build.yml"
+  ],
+  "unchanged_count": 560,
+  "unaltered_original_audio_and_icons": 554
+}

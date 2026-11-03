@@ -1,0 +1,25 @@
+
+> qalam-app@1.0.0 build
+> npm run check && npm run prepare:web && npx cap sync android
+
+
+> qalam-app@1.0.0 check
+> node scripts/check.cjs
+
+PASS: 3 JavaScript files parse; JSON, entry resources and 552 referenced audio files exist.
+
+> qalam-app@1.0.0 prepare:web
+> node scripts/prepare-web.cjs
+
+Prepared 563 offline resources
+✔ Copying web assets from www to android/app/src/main/assets/public in 155.34ms
+✔ Creating capacitor.config.json in android/app/src/main/assets in 637.75μs
+✔ copy android in 163.73ms
+✔ Updating Android plugins in 2.59ms
+[info] Found 4 Capacitor plugins for android:
+       @capacitor-community/text-to-speech@8.0.2
+       @capacitor/app@8.1.2
+       @capacitor/filesystem@8.1.5
+       @capacitor/share@8.0.3
+✔ update android in 28.21ms
+[info] Sync finished in 0.219s

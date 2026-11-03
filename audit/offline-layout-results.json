@@ -1,0 +1,59 @@
+{
+  "offline": {
+    "resources": 563,
+    "allResources": {
+      "failed": []
+    },
+    "range": {
+      "status": 206,
+      "bytes": 100,
+      "range": "bytes 0-99/4701"
+    },
+    "missing": {
+      "status": 504,
+      "type": "text/plain; charset=utf-8"
+    },
+    "unrelatedCache": true,
+    "reload": 1,
+    "privacy": true
+  },
+  "layout": [
+    {
+      "width": 320,
+      "height": 568,
+      "count": 115,
+      "bad": []
+    },
+    {
+      "width": 360,
+      "height": 640,
+      "count": 115,
+      "bad": []
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "count": 115,
+      "bad": []
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "count": 115,
+      "bad": []
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "count": 115,
+      "bad": []
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "count": 115,
+      "bad": []
+    }
+  ],
+  "errors": []
+}

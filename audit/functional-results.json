@@ -1,0 +1,80 @@
+{
+  "results": [
+    {
+      "name": "Create child from the real welcome form",
+      "pass": true
+    },
+    {
+      "name": "Parent PIN creation and confirmation",
+      "pass": true
+    },
+    {
+      "name": "Parent PIN wrong entry, backspace, correct entry",
+      "pass": true
+    },
+    {
+      "name": "Randomized learning question invariants",
+      "pass": true,
+      "detail": {
+        "questions": 1700
+      }
+    },
+    {
+      "name": "Correct/wrong answers, repeated clicks, review and final result",
+      "pass": true
+    },
+    {
+      "name": "Export/import genuine learning progress without loss",
+      "pass": true
+    },
+    {
+      "name": "Invalid restoration rejected atomically",
+      "pass": true,
+      "detail": {
+        "rejected": 8
+      }
+    },
+    {
+      "name": "Custom exam failed save preserves entered answers",
+      "pass": true
+    },
+    {
+      "name": "Settings toggles, reading speed and diacritics persist",
+      "pass": true
+    },
+    {
+      "name": "Backup button generates a JSON file",
+      "pass": true,
+      "detail": {
+        "bytes": 1432
+      }
+    },
+    {
+      "name": "Restore confirmation remains disabled for bad phrase",
+      "pass": true
+    },
+    {
+      "name": "Real pointer handwriting: draw, evaluate, undo and clear",
+      "pass": true,
+      "detail": {
+        "canvas": {
+          "width": 358,
+          "height": 358
+        }
+      }
+    },
+    {
+      "name": "Unknown routes and malformed URLs recover safely",
+      "pass": true
+    },
+    {
+      "name": "Delete all application data preserves unrelated origin data",
+      "pass": true
+    },
+    {
+      "name": "Blocked localStorage still renders welcome and basic interaction",
+      "pass": true
+    }
+  ],
+  "errors": []
+}

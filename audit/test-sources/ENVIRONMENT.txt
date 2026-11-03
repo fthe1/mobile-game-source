@@ -1,0 +1,1 @@
+Recorded audit harness: Node 22, Playwright Chromium 156; origin http://127.0.0.1:8765/fixed/www/. Harness paths refer to the isolated audit workspace. Use an equivalent local server and adjust base paths to reproduce. Runtime application has no dependency on these files.

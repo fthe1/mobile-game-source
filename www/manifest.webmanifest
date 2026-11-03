@@ -1,0 +1,27 @@
+{
+  "name": "صديقي قلم — اقرأ، اكتب، واكتشف!",
+  "short_name": "صديقي قلم",
+  "dir": "rtl",
+  "lang": "ar",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E0F2FF",
+  "theme_color": "#6C5CE7",
+  "description": "تطبيق تعليمي عربي للأطفال: حروف، أرقام، قراءة، كتابة، دين، وقصص — بلا إنترنت وبلا إعلانات",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
